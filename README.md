@@ -4,6 +4,8 @@
 <body>
 <p style="text-align: center;"><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="https://avatars.githubusercontent.com/u/95296454?v=4" alt="" width="147" height="147" /> 徐慧民 Laura</strong></p>
 <p><strong>WeHelp 申請</strong></p>
+<ul>
+<li aria-level="1"><strong>兩百字內的個人簡介</strong></li>
 </ul>
 <p><span style="font-weight: 400;">世新大學企管系一月要畢業的學生，喜歡文字、音樂、電影。</span></p>
 <p><span style="font-weight: 400;">其實就是一個普通的人，努力成為「不」普通。</span></p>
