@@ -65,3 +65,4 @@
 <p>&nbsp;</p>
 <p><span style="font-weight: 400;">聖誕快樂，新年快樂🎅</span></p>
 <p><span style="font-weight: 400;">拜託選我!!</span></p>
+<p><span style="font-weight: 400;">我決定要做好的事一定會堅持到底。</span></p>
