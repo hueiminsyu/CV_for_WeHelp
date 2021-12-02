@@ -22,7 +22,8 @@
 <p><span style="font-weight: 400;">疫情期間，我發現我喜歡自己規劃時間的感覺，甚麼時候該完成報告，甚麼時候可以追火影忍者，都在我的掌控下。</span></p>
 <p><span style="font-weight: 400;">所以為甚麼我想成為工程師?在查了很多工程師的優缺點後，我還是想學。</span></p>
 <p><span style="font-weight: 400;">也可以說我一直在摸索自己想做甚麼，而工程師，就是我現在最想嘗試的事。</span></p>
-<ul>
+<ul>  
+  <p>&nbsp;</p>
 <li aria-level="1"><strong>為了成為軟體工程師，曾經做過什麼努力？</strong></li>
 </ul>
 <p>&nbsp;</p>
