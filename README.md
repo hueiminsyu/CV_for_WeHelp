@@ -8,6 +8,7 @@
 <ul>
 <li aria-level="1"><strong>兩百字內的個人簡介</strong></li>
 </ul>
+<p>&nbsp;</p>
 <p><span style="font-weight: 400;">世新大學企管系一月要畢業的學生，喜歡文字、音樂、電影。</span></p>
 <p><span style="font-weight: 400;">其實就是一個普通的人，努力成為「不」普通。</span></p>
 <p><span style="font-weight: 400;">高三時跟朋友單獨去過美國15天，未來想去加拿大工作，甚至移民。</span></p>
