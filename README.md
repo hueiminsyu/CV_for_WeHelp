@@ -4,10 +4,15 @@
 <body>
 <p style="text-align: center;"><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="https://avatars.githubusercontent.com/u/95296454?v=4" alt="" width="147" height="147" /> 徐慧民 Laura</strong></p>
 <p><strong>WeHelp 申請</strong></p>
-<ul>
-<li aria-level="1"><strong>兩百字內的個人簡介</strong></li>
 </ul>
-<p>世新大學企管系一月要畢業的學生，<br /><br /></p>
+<p><span style="font-weight: 400;">世新大學企管系一月要畢業的學生，喜歡文字、音樂、電影。</span></p>
+<p><span style="font-weight: 400;">其實就是一個普通的人，努力成為「不」普通。</span></p>
+<p><span style="font-weight: 400;">高三時跟朋友單獨去過美國15天，未來想去加拿大工作，甚至移民。</span></p>
+<p><span style="font-weight: 400;">兩百字怎麼夠形容我這個人呢?</span></p>
+<p><span style="font-weight: 400;">國、高中一直在填鴨式教育裡面掙扎，不明白自己想要甚麼，只知道對於現況不滿意，終於熬到了大學，開始探索除了國英數自社之外的事情。</span></p>
+<p><span style="font-weight: 400;">對於未來充滿不確定，但也不是很焦慮。</span></p>
+<p><span style="font-weight: 400;">我還年輕，浪費時間是我的特權，相信一定能找到，理想的未來。</span></p>
+<p><br /><br /></p>
 <ul>
 <li aria-level="1"><strong>為什麼想成為前端、後端、或全端工程師？</strong></li>
 </ul>
